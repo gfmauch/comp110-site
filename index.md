@@ -7,9 +7,9 @@ layout: default
 ## Analysis
 To get an understanding of the current usage and perceived effectiveness of the office hours, a survey was conducted. Of the students who conducted the survey, 291 students stated they attended office hours. The average effectiveness of the office hours was 5.1517 (on a scale of 1-7). 
 
-<img src="/static/imgs/output.png"  width="500"/>
-<img src="/static/imgs/output2.png"  width="500"/>
-<img src="/static/imgs/output3.png" width="500"/>
+<img src="{{ '/static/imgs/output.png' | relative_url }}" width="500" alt="Survey result chart 1" />
+<img src="{{ '/static/imgs/output2.png' | relative_url }}" width="500" alt="Survey result chart 2" />
+<img src="{{ '/static/imgs/output3.png' | relative_url }}" width="500" alt="Survey result chart 3" />
 
 
 ## Conclusion
