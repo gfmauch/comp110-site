@@ -8,10 +8,15 @@ layout: default
 To get an understanding of the current usage and perceived effectiveness of the office hours, a survey was conducted. Of the students who conducted the survey, 291 students stated they attended office hours. The average effectiveness of the office hours was 5.1517 (on a scale of 1-7). Most people described office hours as being effective despite most students only attending once. The data shows that increasing the availability of office hours would increase the attendance. 
 
 <img src="{{ '/static/imgs/output.png' | relative_url }}" width="500" alt="Survey result chart 1" />
+
 Figure 1. Shows number of students attended office hours and how frequent.
+
 <img src="{{ '/static/imgs/output2.png' | relative_url }}" width="500" alt="Survey result chart 2" />
+
 Figure 2. Shows the rated effectiveness of office hours against the number of visits that student attended.
+
 <img src="{{ '/static/imgs/output3.png' | relative_url }}" width="500" alt="Survey result chart 3" />
+
 Figure 3. Shows the distribution of how students rated the effectiveness of office hours.
 
 
